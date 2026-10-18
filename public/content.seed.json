@@ -1,0 +1,406 @@
+{
+ "name": "Jishad NV",
+ "photo": "/media/photo-01.jpg",
+ "contact": {
+  "email": "jishadnv7@gmail.com",
+  "phone": "+919995314675"
+ },
+ "show": {
+  "about": true,
+  "services": true,
+  "websites": true,
+  "posters": true,
+  "contact": true,
+  "badge": true,
+  "adminLink": true,
+  "process": true,
+  "skills": true,
+  "education": true,
+  "certs": true,
+  "instagram": true,
+  "videos": true
+ },
+ "projects": [
+  {
+   "t": "",
+   "d": "",
+   "l": "HTML",
+   "r": "-Animated-website",
+   "live": "",
+   "on": false
+  },
+  {
+   "t": "Pop Carty – Company Site",
+   "d": "A polished, full company website concept for a dream brand, built in TypeScript.",
+   "l": "TypeScript",
+   "r": "popcart-orginal",
+   "live": "https://popcarty.in",
+   "on": true
+  },
+  {
+   "t": "Frozy – Ice Cream Brand",
+   "d": "A fresh, colorful website for an ice cream company with a modern look and feel.",
+   "l": "TypeScript",
+   "r": "frozy-website",
+   "live": "https://frozy-website-one.vercel.app/",
+   "on": true
+  },
+  {
+   "t": "Burger Shop Website",
+   "d": "A bold, appetizing landing site designed for a burger restaurant.",
+   "l": "TypeScript",
+   "r": "burger-shop-website",
+   "live": "https://burger-shop-website-nu.vercel.app/",
+   "on": true
+  },
+  {
+   "t": "Drink Special Website",
+   "d": "A vibrant product-focused website made for a beverage brand.",
+   "l": "TypeScript",
+   "r": "drink-sp-website",
+   "live": "https://drink-sp-website.vercel.app/",
+   "on": true
+  },
+  {
+   "t": "Shae Made – Craft Studio",
+   "d": "A warm, handcrafted-feeling website showcasing creative craft work.",
+   "l": "TypeScript",
+   "r": "shae-made-org",
+   "live": "https://shae-made-org.vercel.app/",
+   "on": true
+  }
+ ],
+ "posters": [
+  {
+   "src": "/media/poster-02.jpg",
+   "t": "21st CUBA UNION presents freshers45",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-03.jpg",
+   "t": "21st CUBA UNION presents freshersneww",
+   "c": "",
+   "on": false
+  },
+  {
+   "src": "/media/poster-04.jpg",
+   "t": "21st CUBA UNION PRESENTS156",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-05.jpg",
+   "t": "ChatGPT Image Oct 9, 2026, 10_30_23 PM",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-06.jpg",
+   "t": "pop233",
+   "c": "",
+   "on": false
+  },
+  {
+   "src": "/media/poster-07.jpg",
+   "t": "Popcarty Family Road Trip",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-08.jpg",
+   "t": "Popcarty Moonlit Delivery Bust",
+   "c": "",
+   "on": false
+  },
+  {
+   "src": "/media/poster-09.jpg",
+   "t": "Popcarty Purple Delivery Moment",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-10.jpg",
+   "t": "Popcarty Scene_ Trending in Motion",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-11.jpg",
+   "t": "popcarty.in",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-12.jpg",
+   "t": "popcarty.in2",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-13.jpg",
+   "t": "popcarty.in5",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-14.jpg",
+   "t": "popcarty.in09",
+   "c": "",
+   "on": false
+  },
+  {
+   "src": "/media/poster-15.jpg",
+   "t": "popcarty.in23",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-16.jpg",
+   "t": "popcarty.in34",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-17.jpg",
+   "t": "popcarty.in235",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-18.jpg",
+   "t": "popcarty.in345",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-19.jpg",
+   "t": "popcarty.in456",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-20.jpg",
+   "t": "popcarty.inpo",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-21.jpg",
+   "t": "popcarty2.in",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-22.jpg",
+   "t": "popcartyposter",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-23.jpg",
+   "t": "Shop Now_ Popcarty Action Poster",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-24.jpg",
+   "t": "Untitled designUYU",
+   "c": "",
+   "on": true
+  },
+  {
+   "src": "/media/poster-25.jpg",
+   "t": "പോപ്പ്കാർട്ടി മേളയിലെ ആവേശ ഓട്ടം",
+   "c": "",
+   "on": true
+  }
+ ],
+ "role": "Full Stack Web Developer · Video Editor · Graphics Designer",
+ "lead": "I recreate AI movie posters into business-ready designs, build animated websites and edit videos – turning ideas into visuals that sell.",
+ "bio": "I’m a Computer Science student and full stack web developer who loves building animated websites, motion graphics and video edits. I also create AI movie posters and turn them into business-ready designs, along with logos, posters and content for brands.",
+ "services": [
+  {
+   "t": "AI Movie Posters",
+   "d": "Movie-style posters made with AI and recreated into business-ready designs.",
+   "go": "posters",
+   "cat": "movie",
+   "on": true
+  },
+  {
+   "t": "Web Design",
+   "d": "Clean, responsive websites for every kind of business.",
+   "go": "websites",
+   "cat": "",
+   "on": true
+  },
+  {
+   "t": "Animated Websites",
+   "d": "Smooth, eye-catching motion and interactive pages.",
+   "go": "websites",
+   "cat": "",
+   "on": true
+  },
+  {
+   "t": "Posters & Logos",
+   "d": "All kinds of posters, logos and brand visuals.",
+   "go": "posters",
+   "cat": "",
+   "on": true
+  },
+  {
+   "t": "Video Editing",
+   "d": "Promos, reels and polished video edits.",
+   "go": "videos",
+   "cat": "",
+   "on": true
+  },
+  {
+   "t": "Motion Graphics",
+   "d": "Animated titles, logo reveals and motion visuals that bring brands to life.",
+   "go": "videos",
+   "cat": "",
+   "on": true
+  }
+ ],
+ "skills": [
+  {
+   "t": "HTML5",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "CSS3",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "JavaScript",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "TypeScript",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "Responsive Design",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "Web Animation",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "Git & GitHub",
+   "g": "Web",
+   "on": true
+  },
+  {
+   "t": "AI Movie Posters",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Poster Design",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Logo Design",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Video Editing",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Full Stack Web Development",
+   "g": "Development",
+   "on": true
+  },
+  {
+   "t": "Software Development",
+   "g": "Development",
+   "on": true
+  },
+  {
+   "t": "Motion Graphics",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Graphics Design",
+   "g": "Design & Media",
+   "on": true
+  },
+  {
+   "t": "Content Creation",
+   "g": "Design & Media",
+   "on": true
+  }
+ ],
+ "education": [
+  {
+   "t": "MCA (Distance)",
+   "i": "Ignou University",
+   "y": "Pursuing",
+   "d": "Master of Computer Applications",
+   "on": true
+  },
+  {
+   "t": "B.Sc. Computer Science",
+   "i": "Regional College, Kuzhimanna",
+   "y": "Graduated",
+   "d": "2024-2026",
+   "on": true
+  },
+  {
+   "t": "Diploma In Urdu Language",
+   "i": "Regional College, Kuzhimanna",
+   "y": "Graduated",
+   "d": "2024-2025",
+   "on": true
+  },
+  {
+   "t": "Degree / course",
+   "i": "",
+   "y": "",
+   "d": "",
+   "on": false
+  }
+ ],
+ "certs": [],
+ "videos": [
+  {
+   "t": "New video",
+   "u": "",
+   "c": "Motion Graphics",
+   "src": "",
+   "on": true
+  }
+ ],
+ "loc": "Kozhikode, Kerala, India",
+ "ig": [
+  {
+   "t": "Pixel Street",
+   "d": "Business account – my poster, web and video work",
+   "h": "pixel.street_",
+   "on": true,
+   "av": ""
+  },
+  {
+   "t": "Jishad NV",
+   "d": "Personal account",
+   "h": "jishad.nv_",
+   "on": true,
+   "av": ""
+  }
+ ],
+ "v2": 1
+}
